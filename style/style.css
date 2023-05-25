@@ -1,0 +1,196 @@
+body{
+    margin:0;
+    padding:0;
+    margin-left:0;
+
+}
+.background{
+    position: relative;
+left: 10%;
+    width: 26cm;
+    background-color: red;
+
+}
+.x{
+    position: relative;
+top:+50px;
+left: 15%;
+}
+.dive{
+    font-family: 'Droid Serif', serif;
+    font-style: italic;
+    font-size: 30px!important;
+    width: 400px;
+    position: relative;
+    left: 24%;
+}
+
+.co{
+    border: 1px #ddd; width: 14cm;
+    height: 12cm;
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    right:6%;
+
+}
+
+.co:hover{
+
+    background-color: green;
+    
+}
+.cole{
+    position: relative;
+    text-align: center; font-size:25px;
+    top:+30px;
+   border:1px solid #ddd;
+   width:13cm; 
+   height:2,70cm;
+   left: 6%;
+   background-color: white;
+   border-radius: 6px;
+}
+.class{
+    margin-left: 10%;
+}
+.para{
+    position: relative;
+    padding-top: +80px;
+    text-align: center;
+    font-family: upercase;
+    font-size: 30px;color: white;
+}
+.co1{
+    border: 1px #ddd;
+     width: 14cm;
+    height:12cm;
+    background-color:yellow;
+    border-radius: 10px;
+    position: relative;
+    left:40px;
+    
+}
+
+.img{
+    margin-left: 30%;
+}
+.btn{
+    position: relative;
+    left: 19%; width: 6cm;
+}
+.liste:hover{
+background-color: yellow;
+}
+.a{
+ 
+}
+.footer{
+    background-color: black; width:32cm;
+    color: white;
+    position: relative;
+   left: 9%;
+}
+html{
+    overflow-y:auto ;
+    overflow-x: hidden;
+    width: 100%;
+}
+.ul{
+list-style: none;
+text-decoration: none;
+position: relative;
+    left: 23%;
+}
+.padding{
+ padding-top:px;
+}
+.ml-5{
+    position: relative;
+    top: +20px
+    
+    ;
+    left: 60%;   
+}
+.type{
+    position: relative;
+    left:23%;
+    top: -20px 
+    
+}
+.for{
+    position: relative;
+    top: +10px  
+}
+.insc{
+    font-weight: 900;
+    font-family: upercase;
+}
+
+.ins{
+    font-weight: 900;
+    font-family: upercase;
+    
+}
+
+.but{
+    position: relative;
+   left: 9%;
+}
+.h2{
+
+    text-align: center;
+    font-size: 60px;
+    background-color: red; 
+    /* width: 26cm; */
+    height:2cm;
+    border-radius:20px;
+    font-weight: 900;
+    font-family: upercase;
+}
+.bu {
+    position: relative;
+    top: +30px;
+}
+.type{
+    position: relative;
+    top: +20px;
+}
+.option1{
+    position: relative;
+   margin-left: 17%;
+   
+}
+.option2{
+    position: relative;
+   margin-left: 17%;
+   
+}
+.tableau{
+    text-align: center;
+    background: color #f2f2f2;
+}
+.flag{
+   position: relative;
+   top:-75px;
+   right: 30%;
+}
+.inp{
+    position: relative;
+    top:-13px;
+    right: 20%;
+}
+.in{
+    position: relative;
+    top:+10px;
+    left: 39%;
+}
+
+.type3{
+    position: relative;
+    text-align: center;
+    font-family: upercase;
+    color: white;
+    background-color: green;
+    border: none;
+}
